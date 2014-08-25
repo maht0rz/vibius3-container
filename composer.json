@@ -12,6 +12,11 @@
         }
     ],
     "minimum-stability":"dev",
+    "autoload": {
+        "psr-4": {
+            "vibius\\container\\":"./src"
+        }
+    },
     "require": {
     	"php": ">=5.4.0"
     }
