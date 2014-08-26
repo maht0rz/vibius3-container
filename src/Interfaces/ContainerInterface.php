@@ -1,6 +1,6 @@
 <?php
 
-namespace vibius\Container\interfaces;
+namespace Vibius\Container\Interfaces;
 
 interface ContainerInterface{
 	public function add($key,$value);

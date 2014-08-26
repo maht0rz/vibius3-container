@@ -14,7 +14,7 @@
     "minimum-stability":"dev",
     "autoload": {
         "psr-4": {
-            "vibius\\container\\":"./src"
+            "Vibius\\Container\\":"./src"
         }
     },
     "require": {

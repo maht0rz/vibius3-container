@@ -1,8 +1,8 @@
 <?php
 
-namespace vibius\Container\provider;
+namespace Vibius\Container\Provider;
 
-use vibius\Container\interfaces;
+use Vibius\Container\Interfaces;
 
 class Container implements ContainerInterface{
 

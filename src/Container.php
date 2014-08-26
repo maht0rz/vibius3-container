@@ -1,6 +1,6 @@
 <?php
 
-namespace vibius\Container;
+namespace Vibius\Container;
 
 class Container extends Facade implements FacadeInterface{
 
