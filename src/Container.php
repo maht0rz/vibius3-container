@@ -2,7 +2,7 @@
 
 namespace Vibius\Container;
 
-use Vibius\Facade, Vibius\Facade\Intefaces;
+use \Vibius\Facade, \Vibius\Facade\Intefaces;
 
 class Container extends Facade implements FacadeInterface{
 
