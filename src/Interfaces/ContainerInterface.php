@@ -3,5 +3,5 @@
 namespace Vibius\Container\Interfaces;
 
 interface ContainerInterface{
-	public function add($key,$value);
+	public function getFacadeIdentifier($key,$value);
 }
